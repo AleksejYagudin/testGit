@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="aba25742-6d59-4b97-9033-00a41d1749be" name="Default Changelist" comment="Revert &quot;11&quot;&#10;&#10;This reverts commit 99e06df1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/3.php" afterDir="false" />
     </list>
     <list id="b9fbeb86-f26f-4e26-a194-ec456cf968d6" name="22" comment="" />
     <list id="8d25ec30-ac45-441d-b7d9-3ef6c5c55244" name="3" comment="3">
@@ -79,7 +82,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feat/R02/test2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
